@@ -8,3 +8,5 @@ def class_view(request):
 
 def func_view(request):
     return render(request, "func_view.html")
+
+
