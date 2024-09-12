@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1ed1bbc-9cfb-463a-88eb-3884c2896885" name="Changes" comment="Доработка кода, согласно ДЗ &quot;DTL. Теги, наследование.&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fifth_task/registration_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/task4/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/task4/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/games.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/games.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/platform.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/platform.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="HTTMLTeg" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kerei1988&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kerei1988/UrbanDjango.git&quot;,
+    &quot;accountId&quot;: &quot;a952b2c0-ffbb-4113-b91e-51889abbca65&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2kEp6o8CcFtRnNR8tvnYSZKScOz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.views.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;DTLTeg&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/PycharmProjects/pythonProjectDjango&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\pythonProjectHWDjango\UrbanDjango\templates\fourth_task" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\pythonProjectHWDjango\UrbanDjango\task4" />
+      <recent name="C:\PycharmProjects\pythonProjectHWDjango\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectHWDjango" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UrbanDjango/task2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UrbanDjango/task2/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1ed1bbc-9cfb-463a-88eb-3884c2896885" name="Changes" comment="" />
+      <created>1722858418485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722858418485</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Доработка кода, согласно ДЗ 0|Домашнее задание по теме &quot;Urls и Views. Функциональное и классовое представление.&quot;">
+      <option name="closed" value="true" />
+      <created>1723175917770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723175917770</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Доработка кода, согласно ДЗ &quot;Базовые HTML тэги в шаблонах&quot;">
+      <option name="closed" value="true" />
+      <created>1723182377466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723182377466</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Доработка кода, согласно ДЗ &quot;DTL. Теги, наследование.&quot;">
+      <option name="closed" value="true" />
+      <created>1723279813279</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723279813279</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Доработка кода, согласно ДЗ 0|Домашнее задание по теме &quot;Urls и Views. Функциональное и классовое представление.&quot;" />
+    <MESSAGE value="Доработка кода, согласно ДЗ &quot;Базовые HTML тэги в шаблонах&quot;" />
+    <MESSAGE value="Доработка кода, согласно ДЗ &quot;DTL. Теги, наследование.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Доработка кода, согласно ДЗ &quot;DTL. Теги, наследование.&quot;" />
+  </component>
+</project>
